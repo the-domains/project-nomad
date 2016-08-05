@@ -1,0 +1,28 @@
+name: Project Nomad
+favicon: null
+layout_spectrum: 0.47874275757931173
+typography_spectrum: 0.7159605445340276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8479877521749586
+  lightness: 0.21659399569034576
+  saturation: 0.22932952595874667
+  rhythmicContrast: 0.7774650966748595
+purpose: []
